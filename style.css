@@ -1,0 +1,50 @@
+.body{
+	
+	background-repeat: no-repeat;
+
+
+
+}
+.prod{
+	width: 50%;
+	height: 50%;
+}
+
+
+.box{
+	background-color: white;
+	color: black;
+	opacity: 0.8;
+}
+.heading{
+	background-color: white;
+}
+.menu{
+	float: left;
+	word-spacing: 30px;
+	padding: 18px;
+}
+.logopic{
+	width: 90px;
+	height: 80px;
+	padding: 30px;
+}
+.menulist{
+	padding: 10px;
+}
+.header{
+	padding: 10px;
+}
+h2{
+	background-color: white;
+	opacity: 0.8;
+}
+.logo{
+	width: 5px;
+	height: 5px;
+	padding: 10px;
+}
+header{
+	width: 100%;
+	height: 20%;
+}
